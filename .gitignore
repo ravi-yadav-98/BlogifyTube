@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# musci files
+*.mp3
+article.txt
+
+
 # Distribution / packaging
 .Python
 build/
